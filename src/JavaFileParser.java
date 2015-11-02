@@ -98,7 +98,6 @@ public class JavaFileParser {
 					if (null == javaFileJDKList.get(dirNumber).get(item)){
 						infoToWrite.append(",0");
 					} else {
-						System.out.println(item + ": " + javaFileJDKList.get(dirNumber).get(item));
 						infoToWrite.append(",");
 						infoToWrite.append((double)javaFileJDKList.get(dirNumber).get(item) * 1.0 / (double)totalTermAmount);
 					}
