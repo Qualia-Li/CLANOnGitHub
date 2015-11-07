@@ -59,7 +59,7 @@ public class VectorComparator {
         getVectorFromFile(vectorDir);
         calculateComparedVectorValue(aimVectorNumber);
         Collections.sort(compareResultList, vectorComp);
-        for (int i = 0; i < answerAmount; i++){
+        for (int i = 0; i < (answerAmount > compareResultList.size() ? compareResultList.size() : answerAmount); i++){
             topRatedVectorNumbers.add(compareResultList.get(i).vectorNumber);
         }
         return topRatedVectorNumbers;
