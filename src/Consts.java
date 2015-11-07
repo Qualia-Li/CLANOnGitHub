@@ -7,5 +7,5 @@ public class Consts {
     final static String JDK_DIR = "/Users/Rex/Desktop/test/jdk.txt";
     final static String VEC_DIR = "/Users/Rex/Desktop/test/vector.txt";
     final static String AIM_NUM = "1";
-    final static int ANS_AMT = 3;
+    final static int ANS_AMT = 100;
 }
