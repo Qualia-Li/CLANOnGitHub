@@ -2,6 +2,11 @@
 
 Closely reLated ApplicatioNs
 
+The original paper can be found here:
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.380.8742&rep=rep1&type=pdf
+
+This method is implemented on GitHub to compare the result with RepoPal. RepoPal can be found here: https://github.com/Qualia-Li/RepoPal
+
 ##Feature
 
 CLAN computes similarity between Java applications by comparing the API calls made by the two applications.
