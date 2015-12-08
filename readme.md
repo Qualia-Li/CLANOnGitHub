@@ -1,6 +1,12 @@
-# JavaClan
+# CLAN
 
+Closely reLated ApplicatioNs
 
+##Feature
+
+CLAN computes similarity between Java applications by comparing the API calls made by the two applications.
+
+## Specification
 
 Change values in `Const.java` to configure:
 
