@@ -5,7 +5,9 @@ Closely reLated ApplicatioNs
 The original paper can be found here:
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.380.8742&rep=rep1&type=pdf
 
-This method is implemented on GitHub to compare the result with RepoPal. RepoPal can be found here: https://github.com/Qualia-Li/RepoPal
+This method is implemented on GitHub to compare the result with RepoPal. RepoPal can be found here: https://github.com/Qualia-Li/RepoPal.
+
+For more information about the research about Detecting Similar Repositories on GitHub, please visit http://www.liquanlai.com/blog/?p=195.
 
 ##Feature
 
