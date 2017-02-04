@@ -1,13 +1,13 @@
 # CLAN
 
-Closely reLated ApplicatioNs
+CLAN stands for Closely reLated ApplicatioNs. 
 
-The original paper can be found here:
+The original paper, by Collin McMillan, can be found here:
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.380.8742&rep=rep1&type=pdf
 
-This method is implemented on GitHub to compare the result with RepoPal. RepoPal can be found here: https://github.com/Qualia-Li/RepoPal.
+This approach is implemented on GitHub, to be compared with RepoPal. RepoPal is a system to detect similarity of GitHub repositories based on stars and texual similarity. Sourcecode of RepoPal can be found here: https://github.com/Qualia-Li/RepoPal.
 
-For more information about the research about Detecting Similar Repositories on GitHub, please visit http://www.liquanlai.com/blog/?p=195.
+For more information related to the research on Detecting Similar Repositories on GitHub, and the methdology to compare CLAN and RepoPal, please visit http://www.liquanlai.com/blog/?p=195.
 
 ##Feature
 
